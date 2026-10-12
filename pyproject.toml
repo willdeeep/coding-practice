@@ -1,0 +1,13 @@
+[project]
+name = "coding-practice"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "ruff>=0.16",
+    "mypy>=2.3",
+    "faker>=40",
+    "polyfactory>=3.3",
+    "pydantic>=2.13",
+    "boto3>=1.43",
+    "moto>=5.2",
+]
